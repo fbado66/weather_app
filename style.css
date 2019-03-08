@@ -1,0 +1,10 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+  /* background: linear-gradient(white,white, blue); */
+  background: pink;
+}
+
+.degree{
+  color: blue;
+  text-decoration: underline;
+}
